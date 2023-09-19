@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Link from "../../Link/Link";
+import Link from "../Link/Link";
 import { GiHamburgerMenu } from 'react-icons/gi';
 import { CgCloseR } from 'react-icons/cg';
 
