@@ -23,6 +23,7 @@ const LineChart = () => {
                 <Line dataKey="price" stroke='red'></Line>
                 <Line dataKey="preWeekPrice" stroke='blue'></Line>
             </LChart>
+            <h1>Chart: current price(red line) VS previous week price(blue line)</h1>
         </div>
     );
 };

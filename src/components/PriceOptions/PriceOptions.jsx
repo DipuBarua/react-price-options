@@ -61,7 +61,7 @@ const PriceOptions = () => {
 
     return (
         <div>
-            <h1>Best price in the market</h1>
+            <h1 className=" text-center text-4xl bg-yellow-500">Best price in the market</h1>
             <div className=" grid md:grid-cols-3 gap-10">
                 {
 
